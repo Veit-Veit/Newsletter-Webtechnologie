@@ -5,6 +5,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# Java crash logs and diagnostic recordings
+hs_err_pid*.log
+replay_pid*.log
+
 ### STS ###
 .apt_generated
 .classpath
