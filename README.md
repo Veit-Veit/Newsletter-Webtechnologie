@@ -8,3 +8,8 @@ Speicherung = New werden gespeichert und bewertet nach wichtigkeit
 Backend Starten
 .\gradlew.bat bootRun
 
+
+Frontend Starten
+cd frontend
+npm install
+npm run dev
